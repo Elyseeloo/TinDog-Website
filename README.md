@@ -76,4 +76,3 @@ This project was a fun and efficient introduction into the world of Bootstrap.
 - Website - [Elyse Chambers](https:/diaryofelyse.com)
 - Frontend Mentor - [Elyseeloo](https://www.frontendmentor.io/profile/Elyseeloo)
 - Twitter - [@Elyseeloo\_](https://www.twitter.com/elyseeloo_)
-  > > > > > > > 7d8c783884bea38e3b97c7a020bf937e6d7e51bc
