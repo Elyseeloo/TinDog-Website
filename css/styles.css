@@ -1,0 +1,147 @@
+/***************************** Tags *****************************/
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+font-weight: bold;
+}
+p{
+  color: #8f8f8f;
+}
+/* Navigation Bar */
+.navbar{
+    padding: 0 0 3rem 0;
+}
+.nav-item{
+  margin:0 20px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+.navbar-brand{
+  margin-left: auto;
+  padding-left: 0;
+  padding-right:0;
+  font-size: 2.5rem;
+  font-weight:900;
+  font-family: 'Ubuntu', sans-serif;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* Containers */
+.container-fluid{
+  padding: 5% 13%;
+}
+
+
+/* Sections */
+.colored-section{
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+}
+
+.white-section{
+background-color: #fff;
+text-align: center;
+}
+/* Title Section */
+.title-heading{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+#title .container-fluid{
+  padding: 5% 13% 7%;
+  text-align:left;
+}
+
+@media (max-width: 991px){
+  #title{
+      text-align: center;
+  }
+}
+.iphone{
+    transform: rotate(25deg);
+    width:22%;
+    padding-left: 0;
+    position: absolute;
+    right:23%;
+}
+@media (max-width: 991px) {
+  .iphone{
+    width: 60%;
+    position: static;
+    transform:rotate(0deg);
+  }
+}
+
+/* Features Section */
+
+#features{
+  font-size: 1.15rem;
+  position: relative;
+  padding: 6rem 0;
+}
+.features-text{
+  font-size: 1.5rem;
+}
+.icon{
+  color: #ef8172;
+  font-size: 3.5rem;
+  margin-bottom: 1.5rem;
+}
+.icon:hover{
+ color: #ff4c68;
+}
+
+ /* Testimonials Section */
+
+#testimonials{
+  background-color: #ef8172;
+}
+.testimonial-text{
+  font-size:3rem;
+  line-height: 1.5;
+}
+.testimonials-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  padding: 20px 20px 60px;
+}
+.press-img{
+  width: 15%;
+  padding: 10px 15px;;
+}
+
+/* Pricing Section */
+
+#pricing{
+  padding: 100px;
+}
+.pricing-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.pricing-plan{
+  font-size: 1.5rem;
+}
+.pricing-card{
+  padding: 3% 1%;
+}
+
+
+/* Footer */
+.icon-foot{
+  font-size: 1rem;
+  padding: 10px;
+}
