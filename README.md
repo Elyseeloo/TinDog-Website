@@ -69,10 +69,10 @@ This is the CSS used to layout the responsive iPhone image in the header.
 
 ### Continued development
 
-This project was a fun and efficient introduction into the world of Bootstrap.
+This project was a fun and efficient introduction into the world of Bootstrap. I hope to continue useing Bootstrap and perfecting my methods with it as I grow on my journey as a developer.
 
 ## Author
 
-- Website - [Elyse Chambers](https:/diaryofelyse.com)
+- Website - [Elyse Chambers](https://www.diaryofelyse.com)
 - Frontend Mentor - [Elyseeloo](https://www.frontendmentor.io/profile/Elyseeloo)
 - Twitter - [@Elyseeloo\_](https://www.twitter.com/elyseeloo_)
